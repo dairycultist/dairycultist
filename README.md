@@ -1,4 +1,4 @@
-# Hi! I'm dairycultist
+![Banner of a big-breasted cowgirl with the slogan "Don't worry, think of boob"](banner.png)
 
 > [!TIP]
 > The dairy is just for uniqueness, you can call me **cultist**.
