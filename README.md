@@ -1,7 +1,5 @@
 # Hi! I'm dairycultist
 
-## He/him, linguist and artist. I like medieval fantasy and soft things.
-
 - [Art and Art Projects [DeviantArt]](https://www.deviantart.com/redderblanket)
 - [My Minecraft Mods [Modrinth]](https://modrinth.com/user/NatsuPotato)
 
