@@ -4,7 +4,7 @@
 > The dairy is just for uniqueness, you can call me **cultist**.
 
 ### [Art and Art Projects [DeviantArt]](https://www.deviantart.com/redderblanket)
-### [My Minecraft Mods [Modrinth]](https://modrinth.com/user/NatsuPotato)
+### [My Minecraft Mods [Modrinth]](https://modrinth.com/user/dairycultist)
 
 <!--<a href="https://bsky.app/profile/lucoa.love">My Lucoa Blog [Bluesky]</a>
     <a href="https://lucoalove.itch.io/">My Games [Itch.io]</a>
