@@ -3,6 +3,8 @@
 [<img src="deviantart_button.png" alt="Art and Art Projects [DeviantArt]">](https://www.deviantart.com/redderblanket)
 [<img src="modrinth_button.png" alt="My Minecraft Mods [Modrinth]">](https://modrinth.com/user/dairycultist)
 
+[My Godot Shaders](https://godotshaders.com/author/dairycultist/) (this doesn't have a card yet)
+
 <!--<a href="https://bsky.app/profile/lucoa.love">My Lucoa Blog [Bluesky]</a>
     <a href="https://lucoalove.itch.io/">My Games [Itch.io]</a>
     <a href="https://www.furaffinity.net/user/hyperspritz">FurAffinity</a>
