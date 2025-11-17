@@ -6,7 +6,7 @@ I'll write a bio here eventually. im gonna have to put my real first name on her
 
 projects that show I have XYZ skill:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dairycultist&repo=dairycultist)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dairycultist&repo=dairycultist)](https://github.com/dairycultist/dairycultist)
 
 [<img src="modrinth_button.png" alt="My Minecraft Mods [Modrinth]">](https://modrinth.com/user/dairycultist)
 [<img src="godot_shaders_button.png" alt="My Godot Shaders">](https://godotshaders.com/author/dairycultist/)
