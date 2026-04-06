@@ -1,4 +1,5 @@
-This is my personal GitHub profile. If you are an employer, what are you doing looking at pages that aren't exclusively the repos I shared with you?! I can't guarantee professionalism in every pet-project repository I make!
+> [!IMPORTANT]
+> This is my personal GitHub profile. If you are an employer, what are you doing looking at pages that aren't exclusively the repos I shared with you?! I can't guarantee professionalism in every pet-project repository I make!
 
 [<img src="modrinth_button.png" alt="My Minecraft Mods [Modrinth]">](https://modrinth.com/user/dairycultist)
 [<img src="godot_shaders_button.png" alt="My Godot Shaders">](https://godotshaders.com/author/dairycultist/)
