@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This is my personal GitHub profile. If you are an employer, I apologize for the abundance of unvetted pet-projects; the repositories I've shared with you are the best representations of my professional skills. Thank you for understanding.
+> This is my personal GitHub profile. It has booba...
 
 [<img src="modrinth_button.png" alt="My Minecraft Mods [Modrinth]">](https://modrinth.com/user/dairycultist)
 [<img src="godot_shaders_button.png" alt="My Godot Shaders">](https://godotshaders.com/author/dairycultist/)
